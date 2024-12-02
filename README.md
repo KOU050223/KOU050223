@@ -8,10 +8,13 @@
   <a href="http://qiita.com/KOU050223">
     <img height="20" src="https://qiita-badge.apiapi.app/s/KOU050223/posts.svg" />
   </a>
-  <a href="http://qiita.com/KOU050223">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/KOU050223/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/KOU050223">
-    <img height="20" src="https://badgen.org/img/zenn/KOU050223/articles?style=plastic" />
-  </a>
 </p>
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KOU050223&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KOU050223&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KOU050223&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KOU050223&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KOU050223&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=KOU050223&theme=gruvbox)
