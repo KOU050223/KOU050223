@@ -19,4 +19,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOU050223&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- WakaTime Coding Stats -->
-[![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KOU050223&layout=compact&range=last_7_days&theme=gruvbox)](https://wakatime.com/@KOU050223)
+[![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KOU050223&layout=compact&range=last_7_days&theme=gruvbox&cache_seconds=86400)](https://wakatime.com/@KOU050223)
