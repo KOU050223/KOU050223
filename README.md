@@ -20,3 +20,6 @@
 
 <!-- WakaTime Coding Stats -->
 [![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KOU050223&layout=compact&range=last_7_days&theme=gruvbox&cache_seconds=86400)](https://wakatime.com/@KOU050223)
+
+<!-- Github Stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOU050223)](https://github.com/anuraghazra/github-readme-stats)
