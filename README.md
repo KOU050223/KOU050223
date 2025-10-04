@@ -1,3 +1,13 @@
+こんにちは！
+現在FITのB3
+ウオミーです
+
+[じょぎ](https://jyogi.net)に所属しています
+
+[じょぎorg](https://github.com/jyogi-web)
+
+ハッカソンを通してものを作り上げる快感や開発の雰囲気感に飲まれました！楽しい！
+
 <p align="left">
   <a href="https://github.com/KOU050223">
     <img height="20" src="https://komarev.com/ghpvc/?username=KOU050223" alt="profile views"/>
