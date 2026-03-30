@@ -1,5 +1,5 @@
 こんにちは！
-現在FITのB3
+現在FITのB4
 ウオミーです
 
 [じょぎ](https://jyogi.net)に所属しています
@@ -7,6 +7,7 @@
 [じょぎorg](https://github.com/jyogi-web)
 
 ハッカソンを通してものを作り上げる快感や開発の雰囲気感に飲まれました！楽しい！
+最近はweb系の会社でアルバイトしてます
 
 <p align="left">
   <a href="https://github.com/KOU050223">
